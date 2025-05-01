@@ -22,7 +22,7 @@ This project demonstrates how to deploy a basic static website using AWS S3.
 
 ## 📷 Screenshots
 
-![Website Screenshot](screenshots/website-online.png)
+![Website Screenshot](screenshots/StaticS3.png)
 
 ## 📋 Deployment Steps
 
